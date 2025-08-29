@@ -1,4 +1,15 @@
 {
+	"header": {
+		"Name": "MDErgo1",
+		"Variant": "standard",
+		"Layout": "Default",
+		"Base": "Blank",
+		"Version": "0.1",
+		"Author": "Daniel Weiss 2025",
+		"KLL": "0.3c",
+		"Date": "2025 - 08 - 25",
+		"Generator": "KIICONF 0.2"
+	},
 	"matrix": [
 		{
 			"code": "0x02",
@@ -1720,17 +1731,6 @@
 	},
 	"canned": {},
 	"defines": [],
-	"header": {
-		"Name": "MDErgo1",
-		"Variant": "standard",
-		"Layout": "Default",
-		"Base": "Blank",
-		"Version": "0.1",
-		"Author": "Daniel Weiss 2021",
-		"KLL": "0.3c",
-		"Date": "2021 - 08 - 27",
-		"Generator": "KIICONF 0.2"
-	},
 	"leds": [],
 	"macros": {}
 }
